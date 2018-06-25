@@ -4,7 +4,7 @@ instances:
   # Flag to enable/disable node metrics
   - skip_node_metrics: False
   # If prefix specified, all metrics will be pushed with this prefix
-    metrics_prefix: "dcos"
+  # metrics_prefix: "dcos"
   # tags for all the dcos-metrics
   # tags:
   #   - "source:dcos-metrics"
